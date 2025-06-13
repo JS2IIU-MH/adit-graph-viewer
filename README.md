@@ -7,7 +7,11 @@ ADIFファイルをアップロードして月次アクティビティグラフ�
 - ADIFファイル（.adif, .adi）のアップロード（最大1GB）
 - 月次QSO数のグラフ表示
 - 生成されたグラフのPNGファイルとしてのダウンロード
-- モダンで使いやすいUI
+
+どのようなものか試したい方はStreamlit Community Cloudにデプロイしたものがあります。以下のリンクからどうぞ。
+
+[ADIF Graph Viewer · Streamlit](https://adif-graph-viewer.streamlit.app/)
+
 
 ## 必要条件
 
@@ -16,10 +20,12 @@ ADIFファイルをアップロードして月次アクティビティグラフ�
 
 ## インストール方法
 
+**注）不注意でリポジトリ名がadifにすべきところがaditになってしまいました。**
+
 1. リポジトリをクローンまたはダウンロードします：
 ```bash
-git clone https://github.com/JS2IIU-MH/adif-graph-viewer.git
-cd adif-graph-viewer
+git clone https://github.com/JS2IIU-MH/adit-graph-viewer.git
+cd adit-graph-viewer
 ```
 
 2. 仮想環境を作成して有効化します：
@@ -71,5 +77,5 @@ JS2IIU-MH
 
 ## 謝辞
 
-- [adiftools](https://github.com/JS2IIU-MH/adiftools-dev) の開発者に感謝します
+- [adiftools](https://github.com/JS2IIU-MH/adiftools-dev) の開発者の関係者に感謝します
 - [Streamlit](https://streamlit.io/) チームに感謝します 
