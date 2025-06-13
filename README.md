@@ -18,7 +18,7 @@ ADIFファイルをアップロードして月次アクティビティグラフ�
 
 1. リポジトリをクローンまたはダウンロードします：
 ```bash
-git clone https://github.com/yourusername/adif-graph-viewer.git
+git clone https://github.com/JS2IIU-MH/adif-graph-viewer.git
 cd adif-graph-viewer
 ```
 
