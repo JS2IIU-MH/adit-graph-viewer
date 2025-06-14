@@ -2,6 +2,11 @@
 
 ADIFファイルをアップロードして月次アクティビティグラフを表示するStreamlitアプリケーションです。
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://adif-graph-viewer.streamlit.app/)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## 機能
 
 - ADIFファイル（.adif, .adi）のアップロード（最大1GB）
